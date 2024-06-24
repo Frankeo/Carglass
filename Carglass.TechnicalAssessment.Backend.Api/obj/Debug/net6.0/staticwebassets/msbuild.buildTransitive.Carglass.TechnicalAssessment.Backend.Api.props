@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Carglass.TechnicalAssessment.Backend.Api.props" />
+</Project>

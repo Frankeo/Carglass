@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ClientDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "clients/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Carglass.TechnicalAssessment.Backend.Dtos.ClientDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ClientDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "clients/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Carglass.TechnicalAssessment.Backend.Dtos.ClientDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ClientDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "clients/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ClientDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "clients/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ClientDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "clients/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Carglass.TechnicalAssessment.Backend.Dtos.ClientDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.HealthCheckController",
+    "Method": "KeepAlive",
+    "RelativePath": "KeepAlive",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ProductDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "products/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Carglass.TechnicalAssessment.Backend.Dtos.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ProductDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "products/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Carglass.TechnicalAssessment.Backend.Dtos.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ProductDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "products/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ProductDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "products/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carglass.TechnicalAssessment.Backend.Api.Controllers.BaseController\u00601[[Carglass.TechnicalAssessment.Backend.Dtos.ProductDto, Carglass.TechnicalAssessment.Backend.Dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "products/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Carglass.TechnicalAssessment.Backend.Dtos.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

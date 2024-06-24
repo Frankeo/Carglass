@@ -1,0 +1,12 @@
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.deps.json
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.dll
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.pdb
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.csproj.AssemblyReference.cache
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.AssemblyInfoInputs.cache
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.AssemblyInfo.cs
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.dll
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\refint\Carglass.TechnicalAssessment.Backend.Dtos.dll
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Dtos.pdb
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.Dtos\obj\Debug\net6.0\ref\Carglass.TechnicalAssessment.Backend.Dtos.dll

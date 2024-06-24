@@ -1,0 +1,15 @@
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.deps.json
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.dll
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.pdb
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Entities.dll
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\bin\Debug\net6.0\Carglass.TechnicalAssessment.Backend.Entities.pdb
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.csproj.AssemblyReference.cache
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.AssemblyInfoInputs.cache
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.AssemblyInfo.cs
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.csproj.CoreCompileInputs.cache
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.DCB03EA9.Up2Date
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.dll
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\refint\Carglass.TechnicalAssessment.Backend.DL.dll
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\Carglass.TechnicalAssessment.Backend.DL.pdb
+C:\Users\ingfr\Downloads\BackendTechnicalAssessment-master\BackendTechnicalAssessment-master\Carglass.TechnicalAssessment.Backend.DL\obj\Debug\net6.0\ref\Carglass.TechnicalAssessment.Backend.DL.dll

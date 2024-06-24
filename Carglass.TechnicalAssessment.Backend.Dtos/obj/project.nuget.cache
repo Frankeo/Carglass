@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2mfWozU5CIun8hdmzBRqO/U6JaRJTApiWWRwfG8hyLihfbdsD02AuOxSdecPbuLmDHaR0Clq1ay85e0cRxYG/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ingfr\\Downloads\\BackendTechnicalAssessment-master\\BackendTechnicalAssessment-master\\Carglass.TechnicalAssessment.Backend.Dtos\\Carglass.TechnicalAssessment.Backend.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\nuget\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\nuget\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\nuget\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
